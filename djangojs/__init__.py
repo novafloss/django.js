@@ -3,7 +3,7 @@
 Django.js provide better integration of javascript into Django.
 '''
 
-__version__ = '0.8.2+peopledoc'
+__version__ = '0.8.3+peopledoc'
 __description__ = "Django JS Tools"
 
 #: Packaged jQuery version
